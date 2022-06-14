@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="semmle-extractor-java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/codeql/java/tools/semmle-extractor-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/codeql/java/tools/semmle-extractor-java.jar!/" />
+    </SOURCES>
+  </library>
+</component>

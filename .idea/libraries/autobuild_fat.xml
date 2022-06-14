@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="autobuild-fat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/codeql/java/tools/autobuild-fat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/codeql/java/tools/codeql-java-agent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/codeql/java/tools/semmle-extractor-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/codeql/java/tools/autobuild-fat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/codeql/java/tools/semmle-extractor-java.jar!/" />
+    </SOURCES>
+  </library>
+</component>

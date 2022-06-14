@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="codeql">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/codeql/tools/codeql.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/codeql/tools/codeql.jar!/" />
+    </SOURCES>
+  </library>
+</component>

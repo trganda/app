@@ -1,2 +1,3 @@
 # app
-Demo Code for Analyzing CodeQL
+
+用于分析`CodeQL`数据库创建过程的示例代码，它最大的用处就是存有`IDEA`的调试配置，你只需简单修改调试配置中的文件路径就可以自己动手了。
